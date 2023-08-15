@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KaveenChandika
-- 👀 I’m interested in JS
-- 🌱 I’m currently learning ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ReactJs NodeJs and Javascript Stuffs
+- 🌱 I’m currentyl working as Senior Software Engineer in DigitalXlab (pvt) Ltd
 
 <!---
 KaveenChandika/KaveenChandika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
