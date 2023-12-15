@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KaveenChandika
-- 👀 I’m interested in ReactJs NodeJs and Javascript Stuffs
+- 👀 I’m interested in ReactJs NextJs NodeJs and Javascript Stuffs
 - 🌱 I’m currently working as Senior Software Engineer in DigitalXlab (pvt) Ltd
 
 <!---
